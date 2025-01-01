@@ -1,0 +1,46 @@
+Privacy Policy
+Effective Date: December 31, 2024
+App Name: Super Customer Assistant
+Contact Email: customer-support@verstai.com
+Personnel Contact: arady7799@gmail.com
+
+Introduction
+At Super Customer Assistant, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Weather Schema services. Please read this policy carefully to understand our practices regarding your data.
+
+Information We Collect
+Personal Information: We do not collect personally identifiable information unless explicitly provided.
+Usage Data: We may collect non-personal data, such as:
+Weather data requests.
+Timestamps of requests.
+User location (if permission is granted).
+Device Information: We may collect details like:
+Browser type.
+Operating system.
+Unique device identifiers.
+How We Use Your Information
+We use the information to:
+
+Provide accurate weather updates.
+Improve the app's functionality.
+Analyze usage patterns to enhance services.
+Sharing Your Information
+Your data is never sold or shared with third parties except:
+
+When required by law or governmental authority.
+To protect against fraudulent or illegal activities.
+Security
+We prioritize the security of your data using industry-standard measures. However, no transmission method over the Internet is 100% secure, so we cannot guarantee absolute security.
+
+Your Choices
+You may:
+
+Opt out of location services by disabling permissions in your device settings.
+Contact us at customer-support@verstai.com for data-related inquiries.
+Changes to This Policy
+This policy may be updated from time to time. We will notify users through the app or by email if significant changes are made.
+
+Contact Us
+If you have any questions, contact us at:
+
+Business Email: customer-support@verstai.com
+Personnel Email: arady7799@gmail.com
